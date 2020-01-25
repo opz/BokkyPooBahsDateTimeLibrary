@@ -1,4 +1,4 @@
-pragma solidity ^0.6.0;
+pragma solidity ^0.5.15;
 
 // ----------------------------------------------------------------------------
 // BokkyPooBah's DateTime Library v1.00 - Contract Instance
